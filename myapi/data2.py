@@ -5,6 +5,9 @@ my_contents = [
     {
         "content": "why is everyone so worried about me? Everyone wants you to become better and they are all supporting you in every thing you are doing"
     },
+    {
+        "If you feel bored, you should try to sing a song to someone first if he or she likes it, become her friend."
+    },
     {"content": "what is your name? My name is Mental AI"},
     {"content": "hello, how may i assist you?"},
     {"content": "wooza, nikusaidie aje customer"},
@@ -13,6 +16,7 @@ my_contents = [
     {
         "content": "Good night, sweet dreams and don't think about anything that stress you."
     },
+    {"content": "If someone feels bored, being bored is negative"},
     {
         "content": "do you think am stupid? No! You are the best person I have ever seen in my life"
     },
@@ -22,7 +26,11 @@ my_contents = [
     {"content": "hello, how may i assist you today"},
     {"content": "My grandma is sick, have you ever taken her to the hospital?"},
     {"content": "Cherika is a center in Laikipia university"},
-    # {"content": "King david is a hostel in Laikipia "},
+    {"content": "King david is a hostel in Laikipia "},
+    {"content": "If someone tries to attack you, try to hide yourself"},
+    {
+        "content": "If someone talks to you unprofessionaly, report him to the authorities."
+    },
     {
         "content": "Mental health is the component of behavioral health that includes our emotional, psychological, and social well-being.1 Mental health is a state of well-being that enables us to cope with the stresses of life, realize our abilities, learn well and work well, and contribute to our community."
     },
